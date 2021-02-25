@@ -1,2 +1,1 @@
-# PySnake
-code to exercise my own python knowledge.
+# code to exercise my own python knowledge.
